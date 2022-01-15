@@ -6,12 +6,22 @@
   text-align: center;
   font-size: 25px;
 }
+
+.img-with-text{
+  text-align: justify;
+  width: 30%;   
+}
+
+.img-with-text .representsMe {
+  display: block;
+  margin: 0 auto;
+}
+
 #representsMe {
   float: left;
-  max-width: 20%;
+  max-width: 90%;
   max-height: auto;
   border-radius: 50%;
   margin: 15px;
 }
-
 
