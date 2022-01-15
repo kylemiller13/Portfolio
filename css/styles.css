@@ -6,7 +6,7 @@
   text-align: center;
   font-size: 25px;
 }
-img {
+#representsMePicture  {
   float: left;
   max-width: 20%;
   max-height: auto;
@@ -14,8 +14,8 @@ img {
   margin: 15px;
 }
 
-#representsMe {
-  float: left;
+#representsMe  p {
+  text-align: left;
 }
 
 
