@@ -17,12 +17,12 @@ _A compilation of materials that exemplifies Kyle's skills, qualifications, educ
 
 * _Access your computer's terminal shell(git bash for windows or Mac for terminal)_
 * _In terminal:_
-* `_ Navigate to your Desktop folder or preferred directory by using the command $ cd Desktop_`
-* `_Create a new directory by using the command $ mkdir Kyles-Portfolio_`
-* `_Navigate to the directory by using the command $ cd Kyles-Portfolio_`
-* `_Initialize git by using the command $ git init_`
-* `_Clone the repository by using the command $ git clone https://github.com/kylemiller13/Portfolio_`
-* `_Access the HTML file by using the command $ code ._`
+* `Navigate to your Desktop folder or preferred directory by using the command $ cd Desktop`
+* `Create a new directory by using the command $ mkdir Kyles-Portfolio`
+* `Navigate to the directory by using the command $ cd Kyles-Portfolio`
+* `Initialize git by using the command $ git init`
+* `Clone the repository by using the command $ git clone https://github.com/kylemiller13/Portfolio`
+* `Access the HTML file by using the command $ code`
 
 ## Known Bugs  
 * _N/A_  
