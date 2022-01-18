@@ -2,7 +2,7 @@
 
 #### By Kyle Miller 
 
-#### This is portfolio of Kyle Miller  
+#### This is a portfolio of Kyle Miller  
 
 ## Technologies Used  
 
@@ -16,15 +16,17 @@ _A compilation of materials that exemplifies Kyle's skills, qualifications, educ
 ## Setup/Installation Requirements  
 
 * _Access your computer's terminal shell(git bash for windows or Mac for terminal)_
-* _Go to your Desktop or preferred directory by using the command $ cd Desktop_
-* _Create a new directory by using the command $ mkdir Kyles-Portfolio_
-* _Navigate to the directory by using the command $ cd Kyles-Portfolio_
-* _Initialize git by using the command $ git init_
-* _Clone the repository by using the command $ git clone https://github.com/kylemiller13/Portfolio_
-* _Access the HTML file by using the command $ code ._
+* _In terminal:_
+* `_ Navigate to your Desktop folder or preferred directory by using the command $ cd Desktop_`
+* `_Create a new directory by using the command $ mkdir Kyles-Portfolio_`
+* `_Navigate to the directory by using the command $ cd Kyles-Portfolio_`
+* `_Initialize git by using the command $ git init_`
+* `_Clone the repository by using the command $ git clone https://github.com/kylemiller13/Portfolio_`
+* `_Access the HTML file by using the command $ code ._`
 
 ## Known Bugs  
 * _N/A_  
 
 ## License 
+ * _[MIT](https://opensource.org/licenses/MIT)_  
  * N/A Copyright (c) 1/14/2022, Kyle Miller
