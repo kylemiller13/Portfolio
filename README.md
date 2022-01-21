@@ -4,7 +4,7 @@
 
 #### This is a portfolio of Kyle Miller
 
-## _[GitHub Pages](https://github.com/kylemiller13/Portfolio/deployments/activity_log?environment=github-pages)_
+## _[GitHub Pages](kylemiller13.github.io/Portfolio/)_
 
 ## Technologies Used
 
